@@ -1,0 +1,3386 @@
+  {
+    "id": 1,
+    "name": "ALippman",
+    "parentId": null,
+    "hierarchyLevel": 1,
+    "createdAt": "2017-02-13T19:41:51.642Z",
+    "state": "MA",
+    "district": 6,
+    "variant": 64,
+    "calls": [
+      {
+        "id": 1437,
+        "createdAt": "2017-04-04T19:01:47.730Z",
+        "duration": 4,
+        "state": "MA",
+        "district": 6,
+        "callerId": 1
+      },
+      {
+        "id": 530,
+        "createdAt": "2017-03-09T19:42:50.073Z",
+        "duration": 303,
+        "state": "MA",
+        "district": 6,
+        "callerId": 1
+      },
+      {
+        "id": 357,
+        "createdAt": "2017-03-06T03:04:54.135Z",
+        "duration": 110,
+        "state": "MA",
+        "district": 0,
+        "callerId": 1
+      },
+      {
+        "id": 265,
+        "createdAt": "2017-02-22T20:59:12.567Z",
+        "duration": 31,
+        "state": "MA",
+        "district": 0,
+        "callerId": 1
+      },
+      {
+        "id": 3,
+        "createdAt": "2017-02-13T20:47:29.573Z",
+        "duration": 434,
+        "state": "MA",
+        "district": 6,
+        "callerId": 1
+      },
+      {
+        "id": 1,
+        "createdAt": "2017-02-13T19:42:45.462Z",
+        "duration": 455,
+        "state": "MA",
+        "district": 0,
+        "callerId": 1
+      }
+    ],
+    "children": [
+      {
+        "id": 2,
+        "name": "Dane",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-13T20:27:51.070Z",
+        "state": "TX",
+        "district": 21,
+        "variant": 100,
+        "calls": [
+          {
+            "id": 4,
+            "createdAt": "2017-02-13T21:21:01.685Z",
+            "duration": 84,
+            "state": "TX",
+            "district": 0,
+            "callerId": 2
+          }
+        ],
+        "children": [
+          {
+            "id": 337,
+            "name": "Kate",
+            "parentId": 2,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-17T16:43:22.851Z",
+            "state": "TX",
+            "district": 25,
+            "variant": 68,
+            "calls": [
+              {
+                "id": 166,
+                "createdAt": "2017-02-17T16:46:10.499Z",
+                "duration": 121,
+                "state": "TX",
+                "district": 0,
+                "callerId": 337
+              },
+              {
+                "id": 167,
+                "createdAt": "2017-02-17T16:48:43.249Z",
+                "duration": 94,
+                "state": "TX",
+                "district": 0,
+                "callerId": 337
+              },
+              {
+                "id": 169,
+                "createdAt": "2017-02-17T16:50:28.614Z",
+                "duration": 38,
+                "state": "TX",
+                "district": 0,
+                "callerId": 337
+              },
+              {
+                "id": 170,
+                "createdAt": "2017-02-17T16:51:31.380Z",
+                "duration": 25,
+                "state": "TX",
+                "district": 25,
+                "callerId": 337
+              },
+              {
+                "id": 171,
+                "createdAt": "2017-02-17T16:52:03.843Z",
+                "duration": 75,
+                "state": "TX",
+                "district": 25,
+                "callerId": 337
+              }
+            ],
+            "children": [
+              {
+                "id": 347,
+                "name": "Meg",
+                "parentId": 337,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-02-17T17:52:32.360Z",
+                "state": "VA",
+                "district": 8,
+                "variant": 55,
+                "calls": [
+                  {
+                    "id": 204,
+                    "createdAt": "2017-02-17T21:50:09.120Z",
+                    "duration": 208,
+                    "state": "VA",
+                    "district": 0,
+                    "callerId": 347
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 683,
+            "name": "Abel",
+            "parentId": 2,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-09T15:19:38.702Z",
+            "state": "MA",
+            "district": 7,
+            "variant": 56,
+            "calls": []
+          },
+          {
+            "id": 328,
+            "name": "FiftyNiftyRocks",
+            "parentId": 2,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-17T16:19:38.541Z",
+            "state": "NY",
+            "district": 10,
+            "variant": 97,
+            "calls": []
+          },
+          {
+            "id": 433,
+            "name": "Autumn",
+            "parentId": 2,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-18T13:23:43.543Z",
+            "state": "TX",
+            "district": 32,
+            "variant": 76,
+            "calls": []
+          },
+          {
+            "id": 5,
+            "name": "d",
+            "parentId": 2,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-13T21:31:57.113Z",
+            "state": "CA",
+            "district": 18,
+            "variant": 33,
+            "calls": []
+          },
+          {
+            "id": 340,
+            "name": "James Kyle",
+            "parentId": 2,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-17T17:12:49.706Z",
+            "state": "CA",
+            "district": 12,
+            "variant": 39,
+            "calls": []
+          },
+          {
+            "id": 372,
+            "name": "manzoor",
+            "parentId": 2,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-17T20:16:35.588Z",
+            "state": "TX",
+            "district": 31,
+            "variant": 74,
+            "calls": []
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Jeff Lowell",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-13T21:36:14.984Z",
+        "state": "CT",
+        "district": 3,
+        "variant": 52,
+        "calls": [
+          {
+            "id": 5,
+            "createdAt": "2017-02-13T21:38:36.782Z",
+            "duration": 47,
+            "state": "CT",
+            "district": 0,
+            "callerId": 7
+          },
+          {
+            "id": 6,
+            "createdAt": "2017-02-13T21:39:56.674Z",
+            "duration": 409,
+            "state": "CT",
+            "district": 0,
+            "callerId": 7
+          },
+          {
+            "id": 7,
+            "createdAt": "2017-02-13T21:47:09.506Z",
+            "duration": 56,
+            "state": "CT",
+            "district": 3,
+            "callerId": 7
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Chunka Mui",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-14T00:36:18.725Z",
+        "state": "VT",
+        "district": 0,
+        "variant": 45,
+        "calls": [
+          {
+            "id": 9,
+            "createdAt": "2017-02-14T16:00:41.204Z",
+            "duration": 87,
+            "state": "VT",
+            "district": 0,
+            "callerId": 15
+          },
+          {
+            "id": 10,
+            "createdAt": "2017-02-14T16:03:13.958Z",
+            "duration": 108,
+            "state": "VT",
+            "district": 0,
+            "callerId": 15
+          },
+          {
+            "id": 11,
+            "createdAt": "2017-02-14T16:05:11.878Z",
+            "duration": 138,
+            "state": "VT",
+            "district": 0,
+            "callerId": 15
+          },
+          {
+            "id": 1211,
+            "createdAt": "2017-03-20T14:47:57.546Z",
+            "duration": 13,
+            "state": "VT",
+            "district": 0,
+            "callerId": 15
+          },
+          {
+            "id": 1212,
+            "createdAt": "2017-03-20T14:48:24.200Z",
+            "duration": 2,
+            "state": "VT",
+            "district": 0,
+            "callerId": 15
+          },
+          {
+            "id": 1213,
+            "createdAt": "2017-03-20T14:48:45.322Z",
+            "duration": 9,
+            "state": "VT",
+            "district": 0,
+            "callerId": 15
+          }
+        ],
+        "children": [
+          {
+            "id": 38,
+            "name": "Ingrid",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T12:02:38.267Z",
+            "state": "FL",
+            "district": 14,
+            "variant": 55,
+            "calls": [
+              {
+                "id": 8,
+                "createdAt": "2017-02-14T12:05:02.670Z",
+                "duration": 101,
+                "state": "FL",
+                "district": 0,
+                "callerId": 38
+              }
+            ],
+            "children": [
+              {
+                "id": 85,
+                "name": "Marin",
+                "parentId": 38,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-02-15T14:56:58.717Z",
+                "state": "MN",
+                "district": 4,
+                "variant": 7,
+                "calls": [
+                  {
+                    "id": 33,
+                    "createdAt": "2017-02-15T15:04:31.423Z",
+                    "duration": 63,
+                    "state": "MN",
+                    "district": 4,
+                    "callerId": 85
+                  },
+                  {
+                    "id": 151,
+                    "createdAt": "2017-02-17T15:46:09.797Z",
+                    "duration": 82,
+                    "state": "MN",
+                    "district": 0,
+                    "callerId": 85
+                  }
+                ]
+              },
+              {
+                "id": 39,
+                "name": "Pattie Johnson",
+                "parentId": 38,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-02-14T12:55:23.040Z",
+                "state": "FL",
+                "district": 14,
+                "variant": 60,
+                "calls": []
+              }
+            ]
+          },
+          {
+            "id": 50,
+            "name": "Roger PRATESI",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T16:40:30.704Z",
+            "state": "GA",
+            "district": 11,
+            "variant": 39,
+            "calls": [
+              {
+                "id": 12,
+                "createdAt": "2017-02-14T16:41:53.554Z",
+                "duration": 84,
+                "state": "GA",
+                "district": 0,
+                "callerId": 50
+              },
+              {
+                "id": 13,
+                "createdAt": "2017-02-14T16:43:29.713Z",
+                "duration": 48,
+                "state": "GA",
+                "district": 11,
+                "callerId": 50
+              },
+              {
+                "id": 14,
+                "createdAt": "2017-02-14T16:44:27.933Z",
+                "duration": 23,
+                "state": "GA",
+                "district": 0,
+                "callerId": 50
+              }
+            ]
+          },
+          {
+            "id": 54,
+            "name": "Darren Wethers",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T17:13:01.973Z",
+            "state": "AZ",
+            "district": 8,
+            "variant": 73,
+            "calls": [
+              {
+                "id": 17,
+                "createdAt": "2017-02-14T17:15:27.537Z",
+                "duration": 96,
+                "state": "AZ",
+                "district": 0,
+                "callerId": 54
+              },
+              {
+                "id": 18,
+                "createdAt": "2017-02-14T17:17:21.833Z",
+                "duration": 57,
+                "state": "AZ",
+                "district": 8,
+                "callerId": 54
+              },
+              {
+                "id": 20,
+                "createdAt": "2017-02-14T17:18:46.401Z",
+                "duration": 65,
+                "state": "AZ",
+                "district": 0,
+                "callerId": 54
+              }
+            ]
+          },
+          {
+            "id": 64,
+            "name": "Rosalie Tocco",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T20:11:10.344Z",
+            "state": "WI",
+            "district": 4,
+            "variant": 24,
+            "calls": [
+              {
+                "id": 24,
+                "createdAt": "2017-02-14T20:13:05.244Z",
+                "duration": 81,
+                "state": "WI",
+                "district": 4,
+                "callerId": 64
+              },
+              {
+                "id": 25,
+                "createdAt": "2017-02-14T20:14:46.244Z",
+                "duration": 155,
+                "state": "WI",
+                "district": 0,
+                "callerId": 64
+              },
+              {
+                "id": 27,
+                "createdAt": "2017-02-14T20:23:44.500Z",
+                "duration": 47,
+                "state": "WI",
+                "district": 0,
+                "callerId": 64
+              }
+            ],
+            "children": [
+              {
+                "id": 76,
+                "name": "Samara",
+                "parentId": 64,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-02-15T02:46:24.671Z",
+                "state": "WI",
+                "district": 4,
+                "variant": 73,
+                "calls": []
+              }
+            ]
+          },
+          {
+            "id": 69,
+            "name": "Jay",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T21:29:18.623Z",
+            "state": "NJ",
+            "district": 7,
+            "variant": 99,
+            "calls": [
+              {
+                "id": 28,
+                "createdAt": "2017-02-14T21:30:06.275Z",
+                "duration": 88,
+                "state": "NJ",
+                "district": 0,
+                "callerId": 69
+              },
+              {
+                "id": 29,
+                "createdAt": "2017-02-14T21:31:52.047Z",
+                "duration": 306,
+                "state": "NJ",
+                "district": 7,
+                "callerId": 69
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "name": "Paul Carroll",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T04:06:07.308Z",
+            "state": "CA",
+            "district": 4,
+            "variant": 26,
+            "calls": [
+              {
+                "id": 30,
+                "createdAt": "2017-02-14T22:42:05.748Z",
+                "duration": 58,
+                "state": "CA",
+                "district": 4,
+                "callerId": 19
+              },
+              {
+                "id": 31,
+                "createdAt": "2017-02-14T22:43:52.062Z",
+                "duration": 70,
+                "state": "CA",
+                "district": 0,
+                "callerId": 19
+              },
+              {
+                "id": 32,
+                "createdAt": "2017-02-14T22:45:19.903Z",
+                "duration": 48,
+                "state": "CA",
+                "district": 0,
+                "callerId": 19
+              },
+              {
+                "id": 337,
+                "createdAt": "2017-03-02T20:01:47.984Z",
+                "duration": 68,
+                "state": "CA",
+                "district": 4,
+                "callerId": 19
+              },
+              {
+                "id": 340,
+                "createdAt": "2017-03-02T20:05:58.396Z",
+                "duration": 22,
+                "state": "CA",
+                "district": 4,
+                "callerId": 19
+              }
+            ]
+          },
+          {
+            "id": 29,
+            "name": "Seshu Ajjarapu",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T06:06:53.452Z",
+            "state": "CA",
+            "district": 17,
+            "variant": 79,
+            "calls": [
+              {
+                "id": 39,
+                "createdAt": "2017-02-15T16:14:58.437Z",
+                "duration": 74,
+                "state": "CA",
+                "district": 17,
+                "callerId": 29
+              },
+              {
+                "id": 40,
+                "createdAt": "2017-02-15T16:16:31.195Z",
+                "duration": 73,
+                "state": "CA",
+                "district": 0,
+                "callerId": 29
+              },
+              {
+                "id": 41,
+                "createdAt": "2017-02-15T16:17:58.452Z",
+                "duration": 10,
+                "state": "CA",
+                "district": 0,
+                "callerId": 29
+              },
+              {
+                "id": 42,
+                "createdAt": "2017-02-15T16:18:18.109Z",
+                "duration": 375,
+                "state": "CA",
+                "district": 0,
+                "callerId": 29
+              }
+            ]
+          },
+          {
+            "id": 80,
+            "name": "Nina",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-15T06:57:31.977Z",
+            "state": "CA",
+            "district": 25,
+            "variant": 22,
+            "calls": [
+              {
+                "id": 43,
+                "createdAt": "2017-02-15T16:23:40.224Z",
+                "duration": 138,
+                "state": "CA",
+                "district": 25,
+                "callerId": 80
+              },
+              {
+                "id": 44,
+                "createdAt": "2017-02-15T16:26:36.460Z",
+                "duration": 11,
+                "state": "CA",
+                "district": 0,
+                "callerId": 80
+              },
+              {
+                "id": 45,
+                "createdAt": "2017-02-15T16:27:04.982Z",
+                "duration": 85,
+                "state": "CA",
+                "district": 0,
+                "callerId": 80
+              }
+            ]
+          },
+          {
+            "id": 164,
+            "name": "Jeff",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-16T00:26:56.397Z",
+            "state": "IL",
+            "district": 5,
+            "variant": 71,
+            "calls": [
+              {
+                "id": 65,
+                "createdAt": "2017-02-16T00:28:46.839Z",
+                "duration": 85,
+                "state": "IL",
+                "district": 0,
+                "callerId": 164
+              },
+              {
+                "id": 66,
+                "createdAt": "2017-02-16T00:31:42.821Z",
+                "duration": 79,
+                "state": "IL",
+                "district": 5,
+                "callerId": 164
+              },
+              {
+                "id": 67,
+                "createdAt": "2017-02-16T00:33:13.656Z",
+                "duration": 41,
+                "state": "IL",
+                "district": 0,
+                "callerId": 164
+              }
+            ]
+          },
+          {
+            "id": 267,
+            "name": "Chris Metcalfe",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-17T00:41:58.253Z",
+            "state": "WA",
+            "district": 7,
+            "variant": 58,
+            "calls": [
+              {
+                "id": 107,
+                "createdAt": "2017-02-17T00:43:16.002Z",
+                "duration": 23,
+                "state": "WA",
+                "district": 7,
+                "callerId": 267
+              },
+              {
+                "id": 108,
+                "createdAt": "2017-02-17T00:43:47.418Z",
+                "duration": 70,
+                "state": "WA",
+                "district": 0,
+                "callerId": 267
+              },
+              {
+                "id": 109,
+                "createdAt": "2017-02-17T00:45:17.085Z",
+                "duration": 2,
+                "state": "WA",
+                "district": 0,
+                "callerId": 267
+              },
+              {
+                "id": 111,
+                "createdAt": "2017-02-17T00:45:54.903Z",
+                "duration": 47,
+                "state": "WA",
+                "district": 0,
+                "callerId": 267
+              },
+              {
+                "id": 110,
+                "createdAt": "2017-02-17T00:45:36.094Z",
+                "duration": 110,
+                "state": "WA",
+                "district": 0,
+                "callerId": 267
+              },
+              {
+                "id": 113,
+                "createdAt": "2017-02-17T00:46:50.307Z",
+                "duration": 37,
+                "state": "WA",
+                "district": 0,
+                "callerId": 267
+              }
+            ]
+          },
+          {
+            "id": 275,
+            "name": "Joel Chemers",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-17T01:43:48.290Z",
+            "state": "IL",
+            "district": 14,
+            "variant": 40,
+            "calls": [
+              {
+                "id": 126,
+                "createdAt": "2017-02-17T01:45:07.679Z",
+                "duration": 48,
+                "state": "IL",
+                "district": 14,
+                "callerId": 275
+              }
+            ]
+          },
+          {
+            "id": 3117,
+            "name": "Ian",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-18T20:24:20.162Z",
+            "state": "NJ",
+            "district": 11,
+            "variant": 35,
+            "calls": [
+              {
+                "id": 1184,
+                "createdAt": "2017-03-18T20:26:23.655Z",
+                "duration": 41,
+                "state": "NJ",
+                "district": 0,
+                "callerId": 3117
+              }
+            ]
+          },
+          {
+            "id": 3166,
+            "name": "Vairam Alagappan",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-20T14:03:13.914Z",
+            "state": "NY",
+            "district": 3,
+            "variant": 36,
+            "calls": [
+              {
+                "id": 1207,
+                "createdAt": "2017-03-20T14:05:24.204Z",
+                "duration": 124,
+                "state": "NY",
+                "district": 3,
+                "callerId": 3166
+              },
+              {
+                "id": 1208,
+                "createdAt": "2017-03-20T14:07:38.524Z",
+                "duration": 299,
+                "state": "NY",
+                "district": 0,
+                "callerId": 3166
+              },
+              {
+                "id": 1209,
+                "createdAt": "2017-03-20T14:13:00.939Z",
+                "duration": 5,
+                "state": "NY",
+                "district": 0,
+                "callerId": 3166
+              },
+              {
+                "id": 1210,
+                "createdAt": "2017-03-20T14:13:41.811Z",
+                "duration": 5,
+                "state": "NY",
+                "district": 0,
+                "callerId": 3166
+              }
+            ]
+          },
+          {
+            "id": 3186,
+            "name": "John Marke",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-21T13:26:52.810Z",
+            "state": "MO",
+            "district": 2,
+            "variant": 80,
+            "calls": [
+              {
+                "id": 1233,
+                "createdAt": "2017-03-21T13:30:52.443Z",
+                "duration": 45,
+                "state": "MO",
+                "district": 0,
+                "callerId": 3186
+              },
+              {
+                "id": 1234,
+                "createdAt": "2017-03-21T13:31:49.559Z",
+                "duration": 32,
+                "state": "MO",
+                "district": 0,
+                "callerId": 3186
+              }
+            ]
+          },
+          {
+            "id": 3208,
+            "name": "Linda Dorothy Turner",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-22T11:23:11.620Z",
+            "state": "TN",
+            "district": 5,
+            "variant": 6,
+            "calls": [
+              {
+                "id": 1269,
+                "createdAt": "2017-03-22T17:30:24.149Z",
+                "duration": 118,
+                "state": "TN",
+                "district": 5,
+                "callerId": 3208
+              }
+            ]
+          },
+          {
+            "id": 3219,
+            "name": "John Quinn",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-22T22:11:45.295Z",
+            "state": "NC",
+            "district": 9,
+            "variant": 50,
+            "calls": [
+              {
+                "id": 1299,
+                "createdAt": "2017-03-22T22:18:51.155Z",
+                "duration": 3,
+                "state": "NC",
+                "district": 0,
+                "callerId": 3219
+              },
+              {
+                "id": 1300,
+                "createdAt": "2017-03-22T22:19:17.252Z",
+                "duration": 37,
+                "state": "NC",
+                "district": 0,
+                "callerId": 3219
+              },
+              {
+                "id": 1301,
+                "createdAt": "2017-03-22T22:28:47.558Z",
+                "duration": 34,
+                "state": "NC",
+                "district": 0,
+                "callerId": 3219
+              }
+            ]
+          },
+          {
+            "id": 3138,
+            "name": "Howard Jacob",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-19T13:30:01.723Z",
+            "state": "IL",
+            "district": 10,
+            "variant": 84,
+            "calls": [
+              {
+                "id": 1349,
+                "createdAt": "2017-03-27T19:37:32.748Z",
+                "duration": 73,
+                "state": "IL",
+                "district": 10,
+                "callerId": 3138
+              },
+              {
+                "id": 1550,
+                "createdAt": "2017-05-01T20:23:20.440Z",
+                "duration": 20,
+                "state": "IL",
+                "district": 10,
+                "callerId": 3138
+              },
+              {
+                "id": 1551,
+                "createdAt": "2017-05-01T20:23:51.479Z",
+                "duration": 172,
+                "state": "IL",
+                "district": 10,
+                "callerId": 3138
+              }
+            ]
+          },
+          {
+            "id": 3495,
+            "name": "Ninny Wan",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-05-16T18:20:42.483Z",
+            "state": "CA",
+            "district": 12,
+            "variant": 34,
+            "calls": []
+          },
+          {
+            "id": 3140,
+            "name": "Roy",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-19T14:47:55.654Z",
+            "state": "MA",
+            "district": 7,
+            "variant": 8,
+            "calls": [],
+            "children": [
+              {
+                "id": 3143,
+                "name": "David Pollak",
+                "parentId": 3140,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-03-19T15:59:21.010Z",
+                "state": "NH",
+                "district": 1,
+                "variant": 10,
+                "calls": [
+                  {
+                    "id": 1193,
+                    "createdAt": "2017-03-19T16:01:34.845Z",
+                    "duration": 49,
+                    "state": "NH",
+                    "district": 0,
+                    "callerId": 3143
+                  },
+                  {
+                    "id": 1194,
+                    "createdAt": "2017-03-19T16:03:04.913Z",
+                    "duration": 39,
+                    "state": "NH",
+                    "district": 0,
+                    "callerId": 3143
+                  },
+                  {
+                    "id": 1195,
+                    "createdAt": "2017-03-19T16:04:06.517Z",
+                    "duration": 79,
+                    "state": "NH",
+                    "district": 1,
+                    "callerId": 3143
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 82,
+            "name": "Colette Hughes",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-15T09:12:20.963Z",
+            "state": "MA",
+            "district": 6,
+            "variant": 94,
+            "calls": []
+          },
+          {
+            "id": 3142,
+            "name": "Michael G",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-19T15:09:44.932Z",
+            "state": "IL",
+            "district": 8,
+            "variant": 11,
+            "calls": []
+          },
+          {
+            "id": 17,
+            "name": "Steve Zwick",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T04:02:53.429Z",
+            "state": "IL",
+            "district": 5,
+            "variant": 90,
+            "calls": [],
+            "children": [
+              {
+                "id": 512,
+                "name": "Kevin Hale",
+                "parentId": 17,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-02-21T19:08:14.579Z",
+                "state": "TX",
+                "district": 22,
+                "variant": 7,
+                "calls": [
+                  {
+                    "id": 254,
+                    "createdAt": "2017-02-21T19:10:31.922Z",
+                    "duration": 93,
+                    "state": "TX",
+                    "district": 0,
+                    "callerId": 512
+                  }
+                ]
+              },
+              {
+                "id": 553,
+                "name": "Craig BARBOUR ",
+                "parentId": 17,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-02-24T15:00:48.030Z",
+                "state": "IL",
+                "district": 1,
+                "variant": 81,
+                "calls": []
+              }
+            ]
+          },
+          {
+            "id": 3124,
+            "name": "Crash",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-18T23:55:10.058Z",
+            "state": "IL",
+            "district": 3,
+            "variant": 34,
+            "calls": [],
+            "children": [
+              {
+                "id": 3125,
+                "name": "elf",
+                "parentId": 3124,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-03-19T00:21:28.006Z",
+                "state": "IL",
+                "district": 10,
+                "variant": 92,
+                "calls": []
+              },
+              {
+                "id": 3147,
+                "name": "Giorgio",
+                "parentId": 3124,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-03-19T17:52:52.907Z",
+                "state": "IL",
+                "district": 9,
+                "variant": 98,
+                "calls": []
+              }
+            ]
+          },
+          {
+            "id": 3115,
+            "name": "Linda ",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-18T20:11:34.443Z",
+            "state": "MA",
+            "district": 5,
+            "variant": 57,
+            "calls": []
+          },
+          {
+            "id": 198,
+            "name": "Lor",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-16T06:55:34.506Z",
+            "state": "CA",
+            "district": 33,
+            "variant": 16,
+            "calls": []
+          },
+          {
+            "id": 71,
+            "name": "Vince",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T23:39:40.482Z",
+            "state": "TX",
+            "district": 17,
+            "variant": 90,
+            "calls": []
+          },
+          {
+            "id": 3190,
+            "name": "Greg",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-21T15:36:36.665Z",
+            "state": "MA",
+            "district": 5,
+            "variant": 91,
+            "calls": []
+          },
+          {
+            "id": 3118,
+            "name": "Rodrigo",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-18T20:47:25.650Z",
+            "state": "IL",
+            "district": 5,
+            "variant": 64,
+            "calls": []
+          },
+          {
+            "id": 3193,
+            "name": "Stanley",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-21T17:12:37.220Z",
+            "state": "HI",
+            "district": 2,
+            "variant": 30,
+            "calls": []
+          },
+          {
+            "id": 3209,
+            "name": "Peter Lock",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-22T13:35:01.416Z",
+            "state": "IL",
+            "district": 7,
+            "variant": 14,
+            "calls": []
+          },
+          {
+            "id": 21,
+            "name": "Tom Warden",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T04:11:21.903Z",
+            "state": "TX",
+            "district": 8,
+            "variant": 43,
+            "calls": []
+          },
+          {
+            "id": 298,
+            "name": "Ashok Popat",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-17T05:28:58.686Z",
+            "state": "CA",
+            "district": 18,
+            "variant": 56,
+            "calls": []
+          },
+          {
+            "id": 3171,
+            "name": "Lauren",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-20T17:48:55.977Z",
+            "state": "CA",
+            "district": 18,
+            "variant": 7,
+            "calls": []
+          },
+          {
+            "id": 3200,
+            "name": "Greg",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-22T01:07:36.720Z",
+            "state": "CA",
+            "district": 28,
+            "variant": 15,
+            "calls": []
+          },
+          {
+            "id": 3155,
+            "name": "Micah Sifry",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-20T00:30:39.965Z",
+            "state": "NY",
+            "district": 16,
+            "variant": 68,
+            "calls": []
+          },
+          {
+            "id": 24,
+            "name": "SC",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T04:16:36.741Z",
+            "state": "AR",
+            "district": 3,
+            "variant": 88,
+            "calls": []
+          },
+          {
+            "id": 3502,
+            "name": "Marcus C. Wood",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-05-30T16:16:10.894Z",
+            "state": "CA",
+            "district": 18,
+            "variant": 42,
+            "calls": []
+          },
+          {
+            "id": 3122,
+            "name": "Ron Donovan",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-18T21:58:24.941Z",
+            "state": "WA",
+            "district": 2,
+            "variant": 43,
+            "calls": []
+          },
+          {
+            "id": 28,
+            "name": "Trish Wurth",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T05:46:11.497Z",
+            "state": "MI",
+            "district": 6,
+            "variant": 39,
+            "calls": []
+          },
+          {
+            "id": 30,
+            "name": "David Douglass",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T06:28:25.866Z",
+            "state": "IL",
+            "district": 10,
+            "variant": 58,
+            "calls": []
+          },
+          {
+            "id": 3185,
+            "name": "jane kosstrin",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-21T13:06:54.548Z",
+            "state": "NY",
+            "district": 10,
+            "variant": 69,
+            "calls": [],
+            "children": [
+              {
+                "id": 3191,
+                "name": "Ryan Richards",
+                "parentId": 3185,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-03-21T16:02:32.132Z",
+                "state": "NY",
+                "district": 12,
+                "variant": 26,
+                "calls": []
+              },
+              {
+                "id": 3188,
+                "name": "s.osman",
+                "parentId": 3185,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-03-21T14:59:42.885Z",
+                "state": "NY",
+                "district": 10,
+                "variant": 36,
+                "calls": []
+              }
+            ]
+          },
+          {
+            "id": 3164,
+            "name": "Todd Rooker",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-20T13:56:28.154Z",
+            "state": "AZ",
+            "district": 6,
+            "variant": 10,
+            "calls": []
+          },
+          {
+            "id": 79,
+            "name": "Annie",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-15T05:32:51.336Z",
+            "state": "IL",
+            "district": 1,
+            "variant": 29,
+            "calls": []
+          },
+          {
+            "id": 3144,
+            "name": "Alan Matsumura",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-19T16:27:00.793Z",
+            "state": "IL",
+            "district": 11,
+            "variant": 13,
+            "calls": [],
+            "children": [
+              {
+                "id": 3333,
+                "name": "Manuela Barreneche",
+                "parentId": 3144,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-03-29T21:08:18.553Z",
+                "state": "IL",
+                "district": 5,
+                "variant": 8,
+                "calls": [],
+                "children": [
+                  {
+                    "id": 3437,
+                    "name": "Leyana",
+                    "parentId": 3333,
+                    "hierarchyLevel": 5,
+                    "createdAt": "2017-04-13T07:42:07.352Z",
+                    "state": "NY",
+                    "district": 16,
+                    "variant": 76,
+                    "calls": []
+                  },
+                  {
+                    "id": 3334,
+                    "name": "Andrea Tabares",
+                    "parentId": 3333,
+                    "hierarchyLevel": 5,
+                    "createdAt": "2017-03-29T22:11:28.455Z",
+                    "state": "NY",
+                    "district": 12,
+                    "variant": 60,
+                    "calls": []
+                  },
+                  {
+                    "id": 3359,
+                    "name": "Sebastian",
+                    "parentId": 3333,
+                    "hierarchyLevel": 5,
+                    "createdAt": "2017-03-30T16:16:22.921Z",
+                    "state": "NY",
+                    "district": 8,
+                    "variant": 79,
+                    "calls": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3119,
+            "name": "Hal Bailey",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-18T21:17:19.401Z",
+            "state": "TN",
+            "district": 9,
+            "variant": 63,
+            "calls": []
+          },
+          {
+            "id": 3113,
+            "name": "Bradford L Power",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-18T20:08:39.207Z",
+            "state": "MA",
+            "district": 5,
+            "variant": 63,
+            "calls": []
+          },
+          {
+            "id": 44,
+            "name": "Jason B",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T14:59:19.360Z",
+            "state": "IL",
+            "district": 5,
+            "variant": 8,
+            "calls": []
+          },
+          {
+            "id": 3127,
+            "name": "Michelle Wilkes",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-19T01:23:03.949Z",
+            "state": "PA",
+            "district": 2,
+            "variant": 62,
+            "calls": [],
+            "children": [
+              {
+                "id": 3128,
+                "name": "Adam",
+                "parentId": 3127,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-03-19T02:19:27.257Z",
+                "state": "NJ",
+                "district": 1,
+                "variant": 2,
+                "calls": []
+              }
+            ]
+          },
+          {
+            "id": 2904,
+            "name": "Kellie Acosta",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-12T21:57:33.470Z",
+            "state": "FL",
+            "district": 16,
+            "variant": 73,
+            "calls": []
+          },
+          {
+            "id": 75,
+            "name": "Rc",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-15T02:09:47.104Z",
+            "state": "NC",
+            "district": 5,
+            "variant": 86,
+            "calls": []
+          },
+          {
+            "id": 3134,
+            "name": "djf",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-19T11:44:06.855Z",
+            "state": "PA",
+            "district": 7,
+            "variant": 91,
+            "calls": []
+          },
+          {
+            "id": 3114,
+            "name": "Randall Larrimore",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-18T20:10:49.173Z",
+            "state": "DE",
+            "district": 0,
+            "variant": 85,
+            "calls": []
+          },
+          {
+            "id": 20,
+            "name": "Guy Fraker",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T04:10:25.716Z",
+            "state": "FL",
+            "district": 26,
+            "variant": 10,
+            "calls": [],
+            "children": [
+              {
+                "id": 26,
+                "name": "Sean ",
+                "parentId": 20,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-02-14T04:30:16.731Z",
+                "state": "CA",
+                "district": 18,
+                "variant": 100,
+                "calls": []
+              },
+              {
+                "id": 192,
+                "name": "Bill",
+                "parentId": 20,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-02-16T05:11:09.794Z",
+                "state": "NJ",
+                "district": 7,
+                "variant": 49,
+                "calls": []
+              }
+            ]
+          },
+          {
+            "id": 168,
+            "name": "Mari",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-16T00:46:44.762Z",
+            "state": "IL",
+            "district": 4,
+            "variant": 76,
+            "calls": []
+          },
+          {
+            "id": 27,
+            "name": "Nina",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T05:38:27.704Z",
+            "state": "CA",
+            "district": 25,
+            "variant": 10,
+            "calls": []
+          },
+          {
+            "id": 3159,
+            "name": "Laura",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-20T04:15:27.591Z",
+            "state": "IL",
+            "district": 9,
+            "variant": 30,
+            "calls": []
+          },
+          {
+            "id": 3116,
+            "name": "CPL",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-18T20:13:50.979Z",
+            "state": "DC",
+            "district": 0,
+            "variant": 3,
+            "calls": []
+          },
+          {
+            "id": 66,
+            "name": "Carl Paradiso",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T20:38:18.789Z",
+            "state": "IL",
+            "district": 9,
+            "variant": 63,
+            "calls": []
+          },
+          {
+            "id": 57,
+            "name": "Dave Moon",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T17:29:58.272Z",
+            "state": "IL",
+            "district": 7,
+            "variant": 8,
+            "calls": []
+          },
+          {
+            "id": 34,
+            "name": "Brenda ",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T09:59:33.978Z",
+            "state": "IL",
+            "district": 10,
+            "variant": 47,
+            "calls": []
+          },
+          {
+            "id": 18,
+            "name": "Bob Frankston",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T04:05:17.420Z",
+            "state": "MA",
+            "district": 4,
+            "variant": 90,
+            "calls": []
+          },
+          {
+            "id": 72,
+            "name": "David Y Choi",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-15T01:30:33.540Z",
+            "state": "CA",
+            "district": 28,
+            "variant": 26,
+            "calls": []
+          },
+          {
+            "id": 3149,
+            "name": "Beth Klingher",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-19T19:38:28.895Z",
+            "state": "CT",
+            "district": 3,
+            "variant": 20,
+            "calls": [],
+            "children": [
+              {
+                "id": 3158,
+                "name": "Rossana Santos",
+                "parentId": 3149,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-03-20T03:43:05.617Z",
+                "state": "MD",
+                "district": 1,
+                "variant": 36,
+                "calls": [
+                  {
+                    "id": 1201,
+                    "createdAt": "2017-03-20T03:44:15.649Z",
+                    "duration": 74,
+                    "state": "MD",
+                    "district": 0,
+                    "callerId": 3158
+                  },
+                  {
+                    "id": 1202,
+                    "createdAt": "2017-03-20T03:45:43.331Z",
+                    "duration": 34,
+                    "state": "MD",
+                    "district": 1,
+                    "callerId": 3158
+                  },
+                  {
+                    "id": 1203,
+                    "createdAt": "2017-03-20T03:46:30.788Z",
+                    "duration": 32,
+                    "state": "MD",
+                    "district": 0,
+                    "callerId": 3158
+                  }
+                ]
+              },
+              {
+                "id": 3154,
+                "name": "Adam klingher",
+                "parentId": 3149,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-03-20T00:17:46.114Z",
+                "state": "IL",
+                "district": 10,
+                "variant": 19,
+                "calls": [],
+                "children": [
+                  {
+                    "id": 3189,
+                    "name": "Sam Klingher",
+                    "parentId": 3154,
+                    "hierarchyLevel": 5,
+                    "createdAt": "2017-03-21T15:24:32.400Z",
+                    "state": "IL",
+                    "district": 10,
+                    "variant": 31,
+                    "calls": []
+                  },
+                  {
+                    "id": 3170,
+                    "name": "Connie Denkmann",
+                    "parentId": 3154,
+                    "hierarchyLevel": 5,
+                    "createdAt": "2017-03-20T16:56:33.886Z",
+                    "state": "MO",
+                    "district": 2,
+                    "variant": 95,
+                    "calls": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 83,
+            "name": "kelfromhell",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-15T14:23:43.498Z",
+            "state": "MN",
+            "district": 5,
+            "variant": 8,
+            "calls": []
+          },
+          {
+            "id": 40,
+            "name": "Michael Boyle",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T13:00:25.201Z",
+            "state": "TX",
+            "district": 10,
+            "variant": 59,
+            "calls": []
+          },
+          {
+            "id": 3123,
+            "name": "Steve Ritchie",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-18T22:10:40.913Z",
+            "state": "WA",
+            "district": 7,
+            "variant": 33,
+            "calls": []
+          },
+          {
+            "id": 462,
+            "name": "interested",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-19T17:25:00.379Z",
+            "state": "MI",
+            "district": 2,
+            "variant": 69,
+            "calls": []
+          },
+          {
+            "id": 3148,
+            "name": "Michael DeBellis",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-19T19:13:11.863Z",
+            "state": "CA",
+            "district": 12,
+            "variant": 94,
+            "calls": [],
+            "children": [
+              {
+                "id": 3151,
+                "name": "JG",
+                "parentId": 3148,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-03-19T21:45:35.301Z",
+                "state": "CA",
+                "district": 2,
+                "variant": 64,
+                "calls": [],
+                "children": [
+                  {
+                    "id": 3153,
+                    "name": "BLM",
+                    "parentId": 3151,
+                    "hierarchyLevel": 5,
+                    "createdAt": "2017-03-19T22:32:30.578Z",
+                    "state": "CA",
+                    "district": 2,
+                    "variant": 13,
+                    "calls": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3156,
+            "name": "William",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-20T00:57:14.064Z",
+            "state": "MA",
+            "district": 9,
+            "variant": 60,
+            "calls": []
+          },
+          {
+            "id": 37,
+            "name": "Laurance  Allen",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T11:47:14.910Z",
+            "state": "MA",
+            "district": 9,
+            "variant": 88,
+            "calls": []
+          },
+          {
+            "id": 3343,
+            "name": "Dennis Chookaszian",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-30T01:38:17.059Z",
+            "state": "IL",
+            "district": 9,
+            "variant": 16,
+            "calls": []
+          },
+          {
+            "id": 3139,
+            "name": "David Weinberger",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-19T13:41:49.205Z",
+            "state": "MA",
+            "district": 4,
+            "variant": 83,
+            "calls": []
+          },
+          {
+            "id": 3163,
+            "name": "dancchicago",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-20T13:30:25.975Z",
+            "state": "IL",
+            "district": 9,
+            "variant": 29,
+            "calls": []
+          },
+          {
+            "id": 3398,
+            "name": "Ken Sansom",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-04-01T19:12:00.048Z",
+            "state": "WA",
+            "district": 7,
+            "variant": 65,
+            "calls": []
+          },
+          {
+            "id": 3160,
+            "name": "Keith Machen",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-20T11:16:38.266Z",
+            "state": "MD",
+            "district": 7,
+            "variant": 61,
+            "calls": []
+          },
+          {
+            "id": 3121,
+            "name": "Bernard Gracy",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-18T21:49:16.207Z",
+            "state": "NH",
+            "district": 2,
+            "variant": 100,
+            "calls": []
+          },
+          {
+            "id": 3131,
+            "name": "Jen",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-19T04:44:18.081Z",
+            "state": "WI",
+            "district": 2,
+            "variant": 32,
+            "calls": []
+          },
+          {
+            "id": 51,
+            "name": "Kelly Vendetti",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T16:56:40.266Z",
+            "state": "UT",
+            "district": 1,
+            "variant": 97,
+            "calls": []
+          },
+          {
+            "id": 42,
+            "name": "Harlan",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T13:25:54.661Z",
+            "state": "IL",
+            "district": 10,
+            "variant": 67,
+            "calls": []
+          },
+          {
+            "id": 3137,
+            "name": "C----",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-19T13:26:19.963Z",
+            "state": "MA",
+            "district": 5,
+            "variant": 47,
+            "calls": [],
+            "children": [
+              {
+                "id": 3145,
+                "name": "Ezra",
+                "parentId": 3137,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-03-19T16:51:36.334Z",
+                "state": "CA",
+                "district": 13,
+                "variant": 92,
+                "calls": []
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "name": "David Wachs",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T04:11:23.731Z",
+            "state": "AZ",
+            "district": 9,
+            "variant": 47,
+            "calls": []
+          },
+          {
+            "id": 45,
+            "name": "George Churchill",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T15:06:14.419Z",
+            "state": "IL",
+            "district": 5,
+            "variant": 1,
+            "calls": []
+          },
+          {
+            "id": 671,
+            "name": "Maria",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-09T04:26:03.628Z",
+            "state": "IL",
+            "district": 6,
+            "variant": 54,
+            "calls": []
+          },
+          {
+            "id": 3165,
+            "name": "Bill B",
+            "parentId": 15,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-20T13:56:57.456Z",
+            "state": "IL",
+            "district": 11,
+            "variant": 21,
+            "calls": []
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "name": "Michael Casey",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-14T19:08:51.376Z",
+        "state": "NY",
+        "district": 16,
+        "variant": 86,
+        "calls": [
+          {
+            "id": 21,
+            "createdAt": "2017-02-14T19:16:44.826Z",
+            "duration": 278,
+            "state": "NY",
+            "district": 0,
+            "callerId": 60
+          },
+          {
+            "id": 22,
+            "createdAt": "2017-02-14T19:23:58.022Z",
+            "duration": 198,
+            "state": "NY",
+            "district": 16,
+            "callerId": 60
+          }
+        ],
+        "children": [
+          {
+            "id": 77,
+            "name": "Pabs",
+            "parentId": 60,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-15T03:20:38.277Z",
+            "state": "CA",
+            "district": 18,
+            "variant": 37,
+            "calls": []
+          },
+          {
+            "id": 68,
+            "name": "Will O'Brien",
+            "parentId": 60,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T21:21:35.771Z",
+            "state": "CA",
+            "district": 12,
+            "variant": 82,
+            "calls": []
+          },
+          {
+            "id": 89,
+            "name": "Alicia",
+            "parentId": 60,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-15T17:05:09.243Z",
+            "state": "NY",
+            "district": 16,
+            "variant": 76,
+            "calls": [],
+            "children": [
+              {
+                "id": 93,
+                "name": "Kathleen  Donahue",
+                "parentId": 89,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-02-15T17:33:52.121Z",
+                "state": "NY",
+                "district": 16,
+                "variant": 86,
+                "calls": []
+              },
+              {
+                "id": 96,
+                "name": "Jess",
+                "parentId": 89,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-02-15T17:49:39.846Z",
+                "state": "NY",
+                "district": 16,
+                "variant": 49,
+                "calls": []
+              }
+            ]
+          },
+          {
+            "id": 78,
+            "name": "Ben",
+            "parentId": 60,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-15T04:12:28.542Z",
+            "state": "MA",
+            "district": 7,
+            "variant": 26,
+            "calls": []
+          },
+          {
+            "id": 70,
+            "name": "Mark Smith",
+            "parentId": 60,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-14T21:41:36.761Z",
+            "state": "NJ",
+            "district": 8,
+            "variant": 49,
+            "calls": []
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "name": "Vivian",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-14T19:29:46.652Z",
+        "state": "CA",
+        "district": 27,
+        "variant": 51,
+        "calls": [
+          {
+            "id": 23,
+            "createdAt": "2017-02-14T19:49:28.085Z",
+            "duration": 41,
+            "state": "CA",
+            "district": 0,
+            "callerId": 61
+          },
+          {
+            "id": 288,
+            "createdAt": "2017-02-23T22:31:29.050Z",
+            "duration": 20,
+            "state": "CA",
+            "district": 27,
+            "callerId": 61
+          },
+          {
+            "id": 1577,
+            "createdAt": "2017-05-04T21:15:58.699Z",
+            "duration": 73,
+            "state": "CA",
+            "district": 0,
+            "callerId": 61
+          }
+        ],
+        "children": [
+          {
+            "id": 213,
+            "name": "Cecilia ",
+            "parentId": 61,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-16T13:47:49.724Z",
+            "state": "MA",
+            "district": 5,
+            "variant": 13,
+            "calls": []
+          },
+          {
+            "id": 416,
+            "name": "Brad",
+            "parentId": 61,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-18T03:43:05.537Z",
+            "state": "CA",
+            "district": 37,
+            "variant": 2,
+            "calls": []
+          },
+          {
+            "id": 134,
+            "name": "Bianca",
+            "parentId": 61,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-15T20:46:09.599Z",
+            "state": "MA",
+            "district": 7,
+            "variant": 63,
+            "calls": []
+          },
+          {
+            "id": 233,
+            "name": "Sofie",
+            "parentId": 61,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-16T17:11:33.463Z",
+            "state": "FL",
+            "district": 27,
+            "variant": 92,
+            "calls": []
+          },
+          {
+            "id": 573,
+            "name": "Ronald",
+            "parentId": 61,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-25T22:14:11.808Z",
+            "state": "HI",
+            "district": 1,
+            "variant": 15,
+            "calls": []
+          }
+        ]
+      },
+      {
+        "id": 86,
+        "name": "ReedSpeed",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-15T15:51:16.549Z",
+        "state": "NH",
+        "district": 2,
+        "variant": 90,
+        "calls": [
+          {
+            "id": 34,
+            "createdAt": "2017-02-15T15:54:44.278Z",
+            "duration": 34,
+            "state": "NH",
+            "district": 0,
+            "callerId": 86
+          },
+          {
+            "id": 35,
+            "createdAt": "2017-02-15T15:56:37.405Z",
+            "duration": 74,
+            "state": "NH",
+            "district": 0,
+            "callerId": 86
+          },
+          {
+            "id": 36,
+            "createdAt": "2017-02-15T15:58:18.817Z",
+            "duration": 15,
+            "state": "NH",
+            "district": 2,
+            "callerId": 86
+          },
+          {
+            "id": 37,
+            "createdAt": "2017-02-15T15:59:25.780Z",
+            "duration": 146,
+            "state": "NH",
+            "district": 2,
+            "callerId": 86
+          },
+          {
+            "id": 38,
+            "createdAt": "2017-02-15T16:02:09.326Z",
+            "duration": 97,
+            "state": "NH",
+            "district": 0,
+            "callerId": 86
+          }
+        ]
+      },
+      {
+        "id": 114,
+        "name": "Sally Wolf",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-15T19:09:35.635Z",
+        "state": "CA",
+        "district": 50,
+        "variant": 85,
+        "calls": [
+          {
+            "id": 54,
+            "createdAt": "2017-02-15T19:11:19.493Z",
+            "duration": 84,
+            "state": "CA",
+            "district": 0,
+            "callerId": 114
+          },
+          {
+            "id": 55,
+            "createdAt": "2017-02-15T19:13:12.637Z",
+            "duration": 103,
+            "state": "CA",
+            "district": 50,
+            "callerId": 114
+          },
+          {
+            "id": 56,
+            "createdAt": "2017-02-15T19:15:09.031Z",
+            "duration": 88,
+            "state": "CA",
+            "district": 0,
+            "callerId": 114
+          }
+        ]
+      },
+      {
+        "id": 141,
+        "name": "Adelaide Vander Salm",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-15T21:21:53.808Z",
+        "state": "MA",
+        "district": 6,
+        "variant": 87,
+        "calls": [
+          {
+            "id": 57,
+            "createdAt": "2017-02-15T21:23:24.532Z",
+            "duration": 112,
+            "state": "MA",
+            "district": 6,
+            "callerId": 141
+          },
+          {
+            "id": 58,
+            "createdAt": "2017-02-15T21:25:45.186Z",
+            "duration": 131,
+            "state": "MA",
+            "district": 0,
+            "callerId": 141
+          },
+          {
+            "id": 59,
+            "createdAt": "2017-02-15T21:28:22.568Z",
+            "duration": 99,
+            "state": "MA",
+            "district": 0,
+            "callerId": 141
+          }
+        ]
+      },
+      {
+        "id": 146,
+        "name": "Russ",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-15T21:49:05.677Z",
+        "state": "NY",
+        "district": 10,
+        "variant": 59,
+        "calls": [
+          {
+            "id": 60,
+            "createdAt": "2017-02-15T21:50:31.979Z",
+            "duration": 13,
+            "state": "NY",
+            "district": 0,
+            "callerId": 146
+          },
+          {
+            "id": 61,
+            "createdAt": "2017-02-15T21:51:05.031Z",
+            "duration": 33,
+            "state": "NY",
+            "district": 10,
+            "callerId": 146
+          },
+          {
+            "id": 62,
+            "createdAt": "2017-02-15T21:51:50.517Z",
+            "duration": 59,
+            "state": "NY",
+            "district": 0,
+            "callerId": 146
+          },
+          {
+            "id": 98,
+            "createdAt": "2017-02-16T22:03:18.856Z",
+            "duration": 13,
+            "state": "NY",
+            "district": 0,
+            "callerId": 146
+          },
+          {
+            "id": 277,
+            "createdAt": "2017-02-22T23:02:25.957Z",
+            "duration": 39,
+            "state": "NY",
+            "district": 0,
+            "callerId": 146
+          }
+        ],
+        "children": [
+          {
+            "id": 148,
+            "name": "Diana",
+            "parentId": 146,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-15T22:14:20.305Z",
+            "state": "CA",
+            "district": 18,
+            "variant": 95,
+            "calls": [
+              {
+                "id": 127,
+                "createdAt": "2017-02-17T02:45:56.994Z",
+                "duration": 52,
+                "state": "CA",
+                "district": 0,
+                "callerId": 148
+              },
+              {
+                "id": 128,
+                "createdAt": "2017-02-17T02:47:04.030Z",
+                "duration": 47,
+                "state": "CA",
+                "district": 18,
+                "callerId": 148
+              },
+              {
+                "id": 129,
+                "createdAt": "2017-02-17T02:48:19.390Z",
+                "duration": 75,
+                "state": "CA",
+                "district": 0,
+                "callerId": 148
+              }
+            ],
+            "children": [
+              {
+                "id": 317,
+                "name": "Kiki",
+                "parentId": 148,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-02-17T15:31:32.115Z",
+                "state": "FL",
+                "district": 22,
+                "variant": 3,
+                "calls": []
+              }
+            ]
+          },
+          {
+            "id": 550,
+            "name": "Susan Neuman",
+            "parentId": 146,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-24T14:11:19.541Z",
+            "state": "NY",
+            "district": 10,
+            "variant": 58,
+            "calls": [
+              {
+                "id": 290,
+                "createdAt": "2017-02-24T14:13:11.427Z",
+                "duration": 33,
+                "state": "NY",
+                "district": 0,
+                "callerId": 550
+              }
+            ]
+          },
+          {
+            "id": 567,
+            "name": "Toni",
+            "parentId": 146,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-25T03:56:27.799Z",
+            "state": "UT",
+            "district": 2,
+            "variant": 58,
+            "calls": [
+              {
+                "id": 302,
+                "createdAt": "2017-02-25T03:59:08.081Z",
+                "duration": 24,
+                "state": "UT",
+                "district": 2,
+                "callerId": 567
+              }
+            ]
+          },
+          {
+            "id": 533,
+            "name": "Susan",
+            "parentId": 146,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-23T05:23:51.805Z",
+            "state": "MD",
+            "district": 8,
+            "variant": 78,
+            "calls": []
+          },
+          {
+            "id": 531,
+            "name": "Ann",
+            "parentId": 146,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-23T02:15:30.055Z",
+            "state": "CA",
+            "district": 27,
+            "variant": 60,
+            "calls": [],
+            "children": [
+              {
+                "id": 546,
+                "name": "Kathrin Parsons",
+                "parentId": 531,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-02-23T22:23:57.713Z",
+                "state": "CO",
+                "district": 2,
+                "variant": 34,
+                "calls": [
+                  {
+                    "id": 286,
+                    "createdAt": "2017-02-23T22:26:01.935Z",
+                    "duration": 58,
+                    "state": "CO",
+                    "district": 0,
+                    "callerId": 546
+                  },
+                  {
+                    "id": 287,
+                    "createdAt": "2017-02-23T22:27:18.299Z",
+                    "duration": 69,
+                    "state": "CO",
+                    "district": 0,
+                    "callerId": 546
+                  }
+                ]
+              },
+              {
+                "id": 542,
+                "name": "Deborah",
+                "parentId": 531,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-02-23T17:00:26.321Z",
+                "state": "CA",
+                "district": 33,
+                "variant": 53,
+                "calls": []
+              },
+              {
+                "id": 614,
+                "name": "Ginny Guenette",
+                "parentId": 531,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-03-04T13:23:16.061Z",
+                "state": "MA",
+                "district": 1,
+                "variant": 61,
+                "calls": [],
+                "children": [
+                  {
+                    "id": 645,
+                    "name": "Leslie",
+                    "parentId": 614,
+                    "hierarchyLevel": 5,
+                    "createdAt": "2017-03-08T01:26:49.529Z",
+                    "state": "MA",
+                    "district": 7,
+                    "variant": 56,
+                    "calls": [],
+                    "children": [
+                      {
+                        "id": 663,
+                        "name": "paty",
+                        "parentId": 645,
+                        "hierarchyLevel": 6,
+                        "createdAt": "2017-03-08T16:12:54.349Z",
+                        "state": "MA",
+                        "district": 8,
+                        "variant": 14,
+                        "calls": [
+                          {
+                            "id": 394,
+                            "createdAt": "2017-03-08T16:16:49.100Z",
+                            "duration": 87,
+                            "state": "MA",
+                            "district": 8,
+                            "callerId": 663
+                          }
+                        ]
+                      },
+                      {
+                        "id": 670,
+                        "name": "Patty P",
+                        "parentId": 645,
+                        "hierarchyLevel": 6,
+                        "createdAt": "2017-03-09T01:54:05.722Z",
+                        "state": "MA",
+                        "district": 5,
+                        "variant": 2,
+                        "calls": []
+                      },
+                      {
+                        "id": 646,
+                        "name": "Carolyn Fuller",
+                        "parentId": 645,
+                        "hierarchyLevel": 6,
+                        "createdAt": "2017-03-08T02:04:49.004Z",
+                        "state": "MA",
+                        "district": 7,
+                        "variant": 64,
+                        "calls": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": 666,
+                    "name": "Beth Julie",
+                    "parentId": 614,
+                    "hierarchyLevel": 5,
+                    "createdAt": "2017-03-08T20:18:00.054Z",
+                    "state": "MA",
+                    "district": 1,
+                    "variant": 34,
+                    "calls": []
+                  }
+                ]
+              },
+              {
+                "id": 538,
+                "name": "William G",
+                "parentId": 531,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-02-23T14:21:44.256Z",
+                "state": "MA",
+                "district": 1,
+                "variant": 18,
+                "calls": []
+              }
+            ]
+          },
+          {
+            "id": 439,
+            "name": "Stuart",
+            "parentId": 146,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-18T17:13:21.930Z",
+            "state": "PA",
+            "district": 16,
+            "variant": 27,
+            "calls": []
+          }
+        ]
+      },
+      {
+        "id": 246,
+        "name": "Robyn",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-16T20:17:02.113Z",
+        "state": "MA",
+        "district": 6,
+        "variant": 10,
+        "calls": [
+          {
+            "id": 101,
+            "createdAt": "2017-02-16T22:18:22.956Z",
+            "duration": 13,
+            "state": "MA",
+            "district": 6,
+            "callerId": 246
+          },
+          {
+            "id": 99,
+            "createdAt": "2017-02-16T22:17:40.616Z",
+            "duration": 70,
+            "state": "MA",
+            "district": 6,
+            "callerId": 246
+          },
+          {
+            "id": 100,
+            "createdAt": "2017-02-16T22:17:50.676Z",
+            "duration": 84,
+            "state": "MA",
+            "district": 6,
+            "callerId": 246
+          },
+          {
+            "id": 102,
+            "createdAt": "2017-02-16T22:19:24.930Z",
+            "duration": 54,
+            "state": "MA",
+            "district": 0,
+            "callerId": 246
+          },
+          {
+            "id": 103,
+            "createdAt": "2017-02-16T22:20:31.944Z",
+            "duration": 38,
+            "state": "MA",
+            "district": 0,
+            "callerId": 246
+          }
+        ],
+        "children": [
+          {
+            "id": 256,
+            "name": "Jamie",
+            "parentId": 246,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-16T21:47:02.547Z",
+            "state": "MA",
+            "district": 6,
+            "variant": 4,
+            "calls": [
+              {
+                "id": 97,
+                "createdAt": "2017-02-16T21:49:58.108Z",
+                "duration": 71,
+                "state": "MA",
+                "district": 6,
+                "callerId": 256
+              }
+            ],
+            "children": [
+              {
+                "id": 379,
+                "name": "Zillie Bhuju",
+                "parentId": 256,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-02-17T21:17:38.348Z",
+                "state": "MA",
+                "district": 6,
+                "variant": 41,
+                "calls": []
+              }
+            ]
+          },
+          {
+            "id": 382,
+            "name": "Jennifer",
+            "parentId": 246,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-17T21:37:04.010Z",
+            "state": "MA",
+            "district": 6,
+            "variant": 28,
+            "calls": [
+              {
+                "id": 203,
+                "createdAt": "2017-02-17T21:41:01.250Z",
+                "duration": 13,
+                "state": "MA",
+                "district": 6,
+                "callerId": 382
+              }
+            ]
+          },
+          {
+            "id": 259,
+            "name": "Laura",
+            "parentId": 246,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-16T23:22:13.311Z",
+            "state": "MA",
+            "district": 6,
+            "variant": 71,
+            "calls": [
+              {
+                "id": 243,
+                "createdAt": "2017-02-20T15:57:58.885Z",
+                "duration": 55,
+                "state": "MA",
+                "district": 0,
+                "callerId": 259
+              },
+              {
+                "id": 244,
+                "createdAt": "2017-02-20T16:00:19.948Z",
+                "duration": 97,
+                "state": "MA",
+                "district": 0,
+                "callerId": 259
+              },
+              {
+                "id": 1096,
+                "createdAt": "2017-03-15T13:29:48.147Z",
+                "duration": 106,
+                "state": "MA",
+                "district": 0,
+                "callerId": 259
+              },
+              {
+                "id": 1098,
+                "createdAt": "2017-03-15T13:43:38.334Z",
+                "duration": 40,
+                "state": "MA",
+                "district": 0,
+                "callerId": 259
+              }
+            ]
+          },
+          {
+            "id": 295,
+            "name": "Elaine ",
+            "parentId": 246,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-17T04:59:56.130Z",
+            "state": "MA",
+            "district": 6,
+            "variant": 24,
+            "calls": []
+          },
+          {
+            "id": 258,
+            "name": "Megan ",
+            "parentId": 246,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-16T22:37:07.465Z",
+            "state": "MA",
+            "district": 6,
+            "variant": 34,
+            "calls": []
+          }
+        ]
+      },
+      {
+        "id": 486,
+        "name": "Mark",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-20T15:33:34.049Z",
+        "state": "MA",
+        "district": 6,
+        "variant": 53,
+        "calls": [
+          {
+            "id": 242,
+            "createdAt": "2017-02-20T15:34:52.410Z",
+            "duration": 93,
+            "state": "MA",
+            "district": 6,
+            "callerId": 486
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "name": "RadishPower",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-14T06:39:59.557Z",
+        "state": "CA",
+        "district": 12,
+        "variant": 10,
+        "calls": [
+          {
+            "id": 255,
+            "createdAt": "2017-02-21T19:58:24.034Z",
+            "duration": 39,
+            "state": "CA",
+            "district": 0,
+            "callerId": 31
+          },
+          {
+            "id": 256,
+            "createdAt": "2017-02-21T19:59:35.436Z",
+            "duration": 153,
+            "state": "CA",
+            "district": 12,
+            "callerId": 31
+          },
+          {
+            "id": 257,
+            "createdAt": "2017-02-21T20:03:05.005Z",
+            "duration": 50,
+            "state": "CA",
+            "district": 0,
+            "callerId": 31
+          }
+        ]
+      },
+      {
+        "id": 429,
+        "name": "William Parsons",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-18T12:40:04.470Z",
+        "state": "NY",
+        "district": 9,
+        "variant": 26,
+        "calls": [
+          {
+            "id": 306,
+            "createdAt": "2017-02-27T22:43:30.690Z",
+            "duration": 38,
+            "state": "NY",
+            "district": 0,
+            "callerId": 429
+          }
+        ]
+      },
+      {
+        "id": 613,
+        "name": "TWeidberg",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-03-04T07:12:31.260Z",
+        "state": "IL",
+        "district": 5,
+        "variant": 32,
+        "calls": [
+          {
+            "id": 358,
+            "createdAt": "2017-03-06T06:57:02.495Z",
+            "duration": 53,
+            "state": "IL",
+            "district": 5,
+            "callerId": 613
+          }
+        ],
+        "children": [
+          {
+            "id": 621,
+            "name": "Amberlicious ",
+            "parentId": 613,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-06T00:25:23.664Z",
+            "state": "CA",
+            "district": 33,
+            "variant": 33,
+            "calls": []
+          }
+        ]
+      },
+      {
+        "id": 2425,
+        "name": "Joanne",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-03-10T22:19:53.338Z",
+        "state": "MO",
+        "district": 4,
+        "variant": 33,
+        "calls": [
+          {
+            "id": 979,
+            "createdAt": "2017-03-13T13:59:39.428Z",
+            "duration": 76,
+            "state": "OK",
+            "district": 0,
+            "callerId": 2425
+          },
+          {
+            "id": 980,
+            "createdAt": "2017-03-13T14:06:12.212Z",
+            "duration": 64,
+            "state": "MO",
+            "district": 0,
+            "callerId": 2425
+          }
+        ],
+        "children": [
+          {
+            "id": 2958,
+            "name": "Andrea",
+            "parentId": 2425,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-13T14:25:46.756Z",
+            "state": "CA",
+            "district": 11,
+            "variant": 44,
+            "calls": []
+          },
+          {
+            "id": 2957,
+            "name": "Marilyn",
+            "parentId": 2425,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-13T14:17:58.810Z",
+            "state": "CT",
+            "district": 4,
+            "variant": 36,
+            "calls": []
+          }
+        ]
+      },
+      {
+        "id": 428,
+        "name": "William Parsons",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-18T12:38:31.321Z",
+        "state": "NY",
+        "district": 9,
+        "variant": 26,
+        "calls": [
+          {
+            "id": 1364,
+            "createdAt": "2017-03-28T15:30:06.847Z",
+            "duration": 33,
+            "state": "NY",
+            "district": 0,
+            "callerId": 428
+          },
+          {
+            "id": 1365,
+            "createdAt": "2017-03-28T15:30:39.568Z",
+            "duration": 26,
+            "state": "NY",
+            "district": 9,
+            "callerId": 428
+          },
+          {
+            "id": 1366,
+            "createdAt": "2017-03-28T15:30:48.307Z",
+            "duration": 76,
+            "state": "NY",
+            "district": 9,
+            "callerId": 428
+          },
+          {
+            "id": 1367,
+            "createdAt": "2017-03-28T15:32:32.810Z",
+            "duration": 260,
+            "state": "NY",
+            "district": 0,
+            "callerId": 428
+          },
+          {
+            "id": 1368,
+            "createdAt": "2017-03-28T15:37:07.986Z",
+            "duration": 336,
+            "state": "NY",
+            "district": 0,
+            "callerId": 428
+          }
+        ]
+      },
+      {
+        "id": 3409,
+        "name": "stefano",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-04-04T19:13:17.109Z",
+        "state": "MA",
+        "district": 5,
+        "variant": 85,
+        "calls": [
+          {
+            "id": 1438,
+            "createdAt": "2017-04-04T19:14:45.360Z",
+            "duration": 72,
+            "state": "MA",
+            "district": 5,
+            "callerId": 3409
+          }
+        ]
+      },
+      {
+        "id": 566,
+        "name": "A T",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-25T02:33:11.626Z",
+        "state": "RI",
+        "district": 1,
+        "variant": 51,
+        "calls": []
+      },
+      {
+        "id": 313,
+        "name": "FNinTak",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-17T14:48:15.575Z",
+        "state": "MA",
+        "district": 7,
+        "variant": 62,
+        "calls": []
+      },
+      {
+        "id": 3075,
+        "name": "E schoenberg ",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-03-16T17:40:52.501Z",
+        "state": "CA",
+        "district": 2,
+        "variant": 49,
+        "calls": []
+      },
+      {
+        "id": 564,
+        "name": "Scott",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-25T02:25:11.304Z",
+        "state": "CA",
+        "district": 12,
+        "variant": 20,
+        "calls": []
+      },
+      {
+        "id": 3174,
+        "name": "Brandon Somers",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-03-20T20:38:46.000Z",
+        "state": "RI",
+        "district": 2,
+        "variant": 76,
+        "calls": [],
+        "children": [
+          {
+            "id": 3175,
+            "name": "Kate W.",
+            "parentId": 3174,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-20T20:43:12.876Z",
+            "state": "RI",
+            "district": 2,
+            "variant": 11,
+            "calls": [],
+            "children": [
+              {
+                "id": 3181,
+                "name": "Margaret",
+                "parentId": 3175,
+                "hierarchyLevel": 4,
+                "createdAt": "2017-03-21T01:02:46.379Z",
+                "state": "RI",
+                "district": 2,
+                "variant": 30,
+                "calls": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 92,
+        "name": "Jeff",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-15T17:21:03.032Z",
+        "state": "GA",
+        "district": 1,
+        "variant": 86,
+        "calls": []
+      },
+      {
+        "id": 3207,
+        "name": "Pol Ypodimatopoulos",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-03-22T05:02:47.756Z",
+        "state": "CA",
+        "district": 14,
+        "variant": 50,
+        "calls": []
+      },
+      {
+        "id": 11,
+        "name": "Brian ",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-13T22:54:07.205Z",
+        "state": "CA",
+        "district": 39,
+        "variant": 79,
+        "calls": []
+      },
+      {
+        "id": 73,
+        "name": "Jules",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-15T01:49:13.462Z",
+        "state": "DC",
+        "district": 0,
+        "variant": 80,
+        "calls": [],
+        "children": [
+          {
+            "id": 377,
+            "name": "Hannah",
+            "parentId": 73,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-17T21:10:54.245Z",
+            "state": "IL",
+            "district": 9,
+            "variant": 17,
+            "calls": [
+              {
+                "id": 200,
+                "createdAt": "2017-02-17T21:11:48.305Z",
+                "duration": 72,
+                "state": "IL",
+                "district": 0,
+                "callerId": 377
+              },
+              {
+                "id": 201,
+                "createdAt": "2017-02-17T21:13:53.893Z",
+                "duration": 160,
+                "state": "IL",
+                "district": 9,
+                "callerId": 377
+              },
+              {
+                "id": 202,
+                "createdAt": "2017-02-17T21:17:05.405Z",
+                "duration": 70,
+                "state": "IL",
+                "district": 0,
+                "callerId": 377
+              }
+            ]
+          },
+          {
+            "id": 74,
+            "name": "Mreen",
+            "parentId": 73,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-15T02:05:18.833Z",
+            "state": "VA",
+            "district": 4,
+            "variant": 91,
+            "calls": []
+          },
+          {
+            "id": 375,
+            "name": "Teensy",
+            "parentId": 73,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-02-17T20:46:24.803Z",
+            "state": "IL",
+            "district": 10,
+            "variant": 100,
+            "calls": []
+          }
+        ]
+      },
+      {
+        "id": 91,
+        "name": "DZP",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-15T17:12:12.318Z",
+        "state": "MA",
+        "district": 5,
+        "variant": 65,
+        "calls": []
+      },
+      {
+        "id": 493,
+        "name": "Jen",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-21T00:42:26.459Z",
+        "state": "PA",
+        "district": 6,
+        "variant": 37,
+        "calls": []
+      },
+      {
+        "id": 3097,
+        "name": "Laura",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-03-17T20:06:18.494Z",
+        "state": "IN",
+        "district": 5,
+        "variant": 3,
+        "calls": []
+      },
+      {
+        "id": 204,
+        "name": "Clipman",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-16T11:51:20.976Z",
+        "state": "NH",
+        "district": 2,
+        "variant": 16,
+        "calls": []
+      },
+      {
+        "id": 501,
+        "name": "Matt Carroll",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-21T12:16:12.101Z",
+        "state": "MA",
+        "district": 8,
+        "variant": 19,
+        "calls": []
+      },
+      {
+        "id": 4,
+        "name": "Tomer Weller",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-02-13T21:29:09.079Z",
+        "state": "MA",
+        "district": 5,
+        "variant": 83,
+        "calls": []
+      },
+      {
+        "id": 611,
+        "name": "Jon Yates",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-03-04T02:47:17.614Z",
+        "state": "IL",
+        "district": 7,
+        "variant": 87,
+        "calls": []
+      },
+      {
+        "id": 3083,
+        "name": "Marvin S",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-03-16T22:34:11.157Z",
+        "state": "PA",
+        "district": 14,
+        "variant": 43,
+        "calls": []
+      },
+      {
+        "id": 3199,
+        "name": "PavelD",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-03-21T22:38:00.298Z",
+        "state": "NY",
+        "district": 9,
+        "variant": 14,
+        "calls": [],
+        "children": [
+          {
+            "id": 3201,
+            "name": "Samantha",
+            "parentId": 3199,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-22T01:40:36.550Z",
+            "state": "PA",
+            "district": 2,
+            "variant": 19,
+            "calls": []
+          },
+          {
+            "id": 3247,
+            "name": "JJ",
+            "parentId": 3199,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-24T23:19:40.136Z",
+            "state": "MA",
+            "district": 7,
+            "variant": 7,
+            "calls": []
+          },
+          {
+            "id": 3220,
+            "name": "Erik",
+            "parentId": 3199,
+            "hierarchyLevel": 3,
+            "createdAt": "2017-03-23T00:24:30.874Z",
+            "state": "WA",
+            "district": 9,
+            "variant": 58,
+            "calls": []
+          }
+        ]
+      },
+      {
+        "id": 3177,
+        "name": "Michael Naimark",
+        "parentId": 1,
+        "hierarchyLevel": 2,
+        "createdAt": "2017-03-20T21:08:01.909Z",
+        "state": "CA",
+        "district": 12,
+        "variant": 100,
+        "calls": []
+      }
+    ]
+  }
