@@ -24,17 +24,29 @@ line.link {
 }
 
 
-}
-/* body {
+
+
+body {
   background-color: black;
-} */
-
-
-.intro-paragraph{
-  padding-top: 1000px;
-  text-align: center;
 }
 
+
+.title{
+  padding-top: 10px;
+  text-align: center;
+  color: white;
+  font-size: 32px;
+  font: Arial;
+  text-align: left;
+
+}
+
+p.lineOne{
+
+
+}
+
+/*
 p.lineOne{
   color: Crimson;
   font-size: 32px;
@@ -42,7 +54,7 @@ p.lineOne{
   font: Arial;
   text-align: center;
   font-style: italic;
-}
+} */
 
 /* p.nextLine{
   color: Crimson;
@@ -51,7 +63,7 @@ p.lineOne{
 
 } */
 
-img {
+/* img {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -80,47 +92,48 @@ img {
     width:50%;
 
 
+} */
+
+.textcolor{
+  color: #ffffff;
 }
 
 </style>
 
 <body>
 
-  <!-- <div class = "title">
-    <p class = lineOne> Fifty Nifty 2.0
+  <div class = "title">
+    MOBILIZE + PARTICIPATE + ACT
+    <p class = lineOne>
+    <br> Optimizing for Network Mobilization </p>
 
-    <br> Mobilize | Activism | Engagement </p>
+  </div>
 
-  </div> -->
-
-  <div class = "intro-paragraph">
+  <!-- <div class = "intro-paragraph">
     <br><br><br><br>
     <p class = lineOne> Calls matter. <span style = "color: blue"> Networks matter. </span> <span style = "color: orange"> Your voice matters.</span> </p>
-    <!--p class = nextLine >Here's how.</p-->
-  </div>
+    <p class = nextLine >Here's how.</p-->
+  <!-- </div> -->
   <!-- <div class = "color-strip">
      <br><br>
   </div> -->
   <!--Photo Div-->
 
-  <div class = "intro-image">
+  <!-- <div class = "intro-image">
       <img src = "capitol.jpg">
-  </div>
+  </div> -->
   <!-- <div class = "color-strip">
      <br><br>
   </div> -->
 
 
 
- <div class = "purpose">
+ <!-- <div class = "purpose">
   <p> <br> <br>
     As we move forward to Fifty Nifty 2.0, we first take a step back and explore the data from Fifty Nifty. <br>
     <br>
     The visualizations below help illustrate what we learned from Fifty Nifty, <br><br> and also help generate questions as we look ahead.   </p>
- </div>
-
-
-
+ <! </div> -->
 
 
 <script src="//d3js.org/d3.v3.min.js"></script>
@@ -141,9 +154,7 @@ img {
   var svg = d3.select("body").append("svg")
       .attr("width", width)
       .attr("height", height)
-      .attr("class", "svg-color")
-
-
+    //  .attr("class", "svg-color")
 
 
   var link = svg.selectAll(".link"),
@@ -192,7 +203,14 @@ img {
 
     nodeEnter.append("text")
         .attr("dy", ".35em")
-        .text(function(d) { return d.name; });
+        .attr("fill","white")
+        .text(function(d) {
+          return d.name;
+        });
+
+
+    // node.select("text")
+    //   .style.color = "white";
 
     node.select("circle")
         .style("fill", color);
