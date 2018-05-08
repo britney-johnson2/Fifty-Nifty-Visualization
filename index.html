@@ -42,7 +42,8 @@ body {
 }
 
 p.lineOne{
-
+  font-size: 26px;
+  /*text-indent: 15px;*/
 
 }
 
@@ -103,9 +104,12 @@ p.lineOne{
 <body>
 
   <div class = "title">
-    MOBILIZE + PARTICIPATE + ACT
+    <!--MOBILIZE + PARTICIPATE + ACT: -->
+    <br>Optimizing for Network Mobilization
     <p class = lineOne>
-    <br> Optimizing for Network Mobilization </p>
+    Using the data from Fifty Nifty - we illustrate the range, strength, and impact of a person's network. <br>
+    How can we extend our use of the network to increase impact?
+    </p>
 
   </div>
 
@@ -139,7 +143,7 @@ p.lineOne{
 <script src="//d3js.org/d3.v3.min.js"></script>
   <script>
 
-  var width = 1960,
+  var width = 3060,
       height = 1500,
       //align = "center",
       root;
@@ -154,6 +158,7 @@ p.lineOne{
   var svg = d3.select("body").append("svg")
       .attr("width", width)
       .attr("height", height)
+      .attr("align", "center")
     //  .attr("class", "svg-color")
 
 
